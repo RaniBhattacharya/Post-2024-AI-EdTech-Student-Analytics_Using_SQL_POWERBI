@@ -87,6 +87,49 @@ Available in `PowerBi_images/`
 Available in `Sql_outputs/`
 
 ---
+📌 **Complete SQL Query Script:** 
+👉 **[Advanced_SQL_Project.sql](project_edTech_query.sql)**
+### 📊 Query Output Snapshots
+
+**📊 Some Query Output Snapshots**
+
+Query 1 –List all colleges that adopted AI in 2024
+# Query 1 - Output Screenshot
+![Query Output - 1](/Sql_outputs/output_1.png)
+
+Query  2.	Find the number of students in each department.
+# Query 2 - Output Screenshot
+![Query Output - 2](/Sql_outputs/output_2.png)
+
+Query 3.	Show the average GPA before and after AI adoption for each college.
+# Query 3 - Output Screenshot 
+![Query Output - 3](/Sql_outputs/output_3.png)
+
+Query 4.	Identify the top 10 students with the highest “hours_spent” on EdTech platforms
+# Query 4 - Output Screenshot 
+![Query Output - 4](/Sql_outputs/output_4.png)
+
+Query – 5.Show the correlation pattern: students who accepted more AI recommendations vs. change in GPA.
+# Query 5 - Output Screenshot
+![Query Output - 5](/Sql_outputs/output_5.png)
+
+
+📌 **FILE -- POWER BI :** 
+👉 **[power_bi_project_edTech.pbix](power_bi_project_edTech.pbix)**
+### 📊 POWERBI Dashboard Snapshots
+
+Dashboard 1 – EdTech_Overview
+# Dashboard 1 -Screenshot
+![EdTech_Overview](/PowerBi_images/pb_edTech_overview_db.png)
+
+Dashboard 2 – Academic_Impact
+# Dashboard 2 -Screenshot
+![Academic_Impact](/PowerBi_images/pb_Academic_impact_db.png)
+
+Dashboard 3 – Comparative_Analysis
+# Dashboard 3 -Screenshot
+![Comparative_Analysis](/PowerBi_images/pb_comparative_analysis_db.png)
+
 
 
 ## 🎯 Key Insights
